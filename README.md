@@ -5,9 +5,9 @@
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 
-## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?#### Comparison of Agile and Waterfall Methodologies
+## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 
-## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?#### When Agile is More Beneficial
+## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 
@@ -21,7 +21,7 @@
 
 ## 10. How would you d#### Description of the Software Solution?
 
-## 11. What are the main features or functionalities that make your software stand out?#### Main Features and Functionalities of Our Software Solution
+## 11. What are the main features or functionalities that make your software stand out?
 
 ## 12. What data is available regarding the market size and growth potential for your software?
 
